@@ -1,0 +1,750 @@
+2022-11-20 01:56:18,003 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:18,037 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:18,038 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:18,038 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:18,038 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:18,038 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:18,038 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:18,038 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:18,038 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:18,039 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:18,039 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:18,039 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:18,039 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:18,039 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:18,040 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:18,041 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:18,041 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:18,042 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:18,042 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:18,042 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:18,043 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:18,043 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:18,043 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:18,043 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:18,043 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:18,043 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:18,044 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:18,044 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:18,044 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:18,044 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:18,044 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:18,044 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:18,044 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:18,044 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:18,046 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:18,046 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:18,046 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:18,046 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:18,046 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:18,047 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:18,047 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:18,047 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:18,047 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:18,047 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:18,047 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:18,047 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:18,047 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:18,048 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:18,048 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:18,048 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:41,570 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:41,602 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:41,603 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:41,603 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:41,603 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:41,604 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:41,604 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:41,605 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:41,605 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:41,605 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:41,605 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:41,605 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:41,605 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:41,605 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:41,607 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:41,607 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:41,607 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:41,607 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:41,607 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:41,607 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:41,608 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:41,608 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:41,608 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:41,608 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:41,609 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:41,609 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:41,609 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:41,609 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:41,609 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:41,609 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:41,609 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:41,610 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:41,610 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:41,610 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:41,610 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:41,610 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:41,611 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:41,611 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:41,611 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:41,611 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:41,611 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:41,611 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:41,611 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:41,611 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:41,611 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:56:41,611 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:56:41,611 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:56:41,613 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:56:41,613 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:56:41,613 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:00,189 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:00,208 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:00,209 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:00,209 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:00,210 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:00,210 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:00,210 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:00,211 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:00,211 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:00,211 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:00,211 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:00,211 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:00,212 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:00,212 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:00,212 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:00,212 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:00,212 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:00,212 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:00,214 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:00,214 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:00,214 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:00,214 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:00,214 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:00,214 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:00,215 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:00,215 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:00,215 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:00,215 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:00,215 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:00,215 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:00,216 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:00,216 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:00,216 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:00,216 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:00,216 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:00,216 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:00,216 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:00,216 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:00,216 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:00,217 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:00,217 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:00,217 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:00,217 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:00,218 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:00,218 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:00,218 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:00,218 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:00,219 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:00,219 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:00,219 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:08,154 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:08,178 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:08,179 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:08,179 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:08,180 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:08,180 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:08,181 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:08,181 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:08,183 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:08,183 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:08,183 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:08,183 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:08,184 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:08,184 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:08,184 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:08,184 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:08,184 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:08,185 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:08,185 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:08,186 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:08,186 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:08,187 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:08,187 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:08,187 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:08,187 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:08,188 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:08,188 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:08,188 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:08,188 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:08,188 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:08,188 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:08,188 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:08,188 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:08,189 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:08,189 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:08,189 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:08,189 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:08,189 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:08,189 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:08,189 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:08,191 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:08,191 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:08,191 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:08,191 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:08,191 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:08,191 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:08,192 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:08,192 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:08,192 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:08,193 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:14,256 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:14,285 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:14,287 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:14,287 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:14,287 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:14,287 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:14,288 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:14,288 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:14,288 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:14,288 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:14,288 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:14,288 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:14,289 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:14,289 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:14,289 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:14,289 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:14,289 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:14,289 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:14,290 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:14,290 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:14,290 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:14,290 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:14,290 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:14,291 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:14,291 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:14,291 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:14,291 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:14,291 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:14,291 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:14,292 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:14,292 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:14,292 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:14,292 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:14,292 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:14,292 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:14,293 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:14,293 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:14,293 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:14,293 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:14,293 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:14,294 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:14,294 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:14,294 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:14,294 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:14,294 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
+2022-11-20 01:57:14,294 [main] INFO  loganalyserh2h.MainApplication - Code: 101 Information: Switching protocols
+java.lang.Exception:  Description: the server understands the Upgrade header field request and indicates which protocol it is switching to
+	at loganalyserh2h.MainApplication.main(MainApplication.java:49) ~[classes/:?]
+2022-11-20 01:57:14,296 [main] DEBUG loganalyserh2h.MainApplication - Code: 101 Successful: Accepted
+java.lang.Exception:  Description: the request was successfully fulfilled
+	at loganalyserh2h.MainApplication.main(MainApplication.java:53) ~[classes/:?]
+2022-11-20 01:57:14,296 [main] TRACE loganalyserh2h.MainApplication - Code: 101 Redirect Error: Moved Permanently
+java.lang.Exception:  Description: the URI of the request has been changed temporarily
+	at loganalyserh2h.MainApplication.main(MainApplication.java:57) ~[classes/:?]
+2022-11-20 01:57:14,296 [main] WARN  loganalyserh2h.MainApplication - Code: 101 Client Error: Unauthorized 
+java.lang.RuntimeException:  Description: Server Requires Authentication
+	at loganalyserh2h.MainApplication.main(MainApplication.java:61) ~[classes/:?]
+2022-11-20 01:57:14,297 [main] ERROR loganalyserh2h.MainApplication - Code: 101 Server Error: Not Implemented 
+java.rmi.ServerException:  Description: the request can not be handled because it is not supported by the server
+	at loganalyserh2h.MainApplication.main(MainApplication.java:65) ~[classes/:?]
