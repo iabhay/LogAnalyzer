@@ -5,7 +5,7 @@ import openpyxl
 import datetime
 
 filedata = pd.read_excel(
-    "C:/Users/abhay/OneDrive/Desktop/New folder/AuthLogsnew.xlsx", "Sheet1")
+    "REMOTE PATH", "Sheet1")
 
 dates = filedata['Date'].values.tolist()
 times = filedata['Time'].values.tolist()
